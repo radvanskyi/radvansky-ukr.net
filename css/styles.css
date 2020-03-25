@@ -1,0 +1,171 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #f5f7fa;
+  padding: 20px;
+  font-family: Arial;
+}
+
+.main-container {
+  background: #fff;
+  display: flex;
+}
+
+.about-me-container {
+  padding-left: 90px;
+  padding-right: 90px;
+  padding-bottom: 90px;
+  padding-top: 90px;
+}
+
+.side-bar {
+  background: #1e2939;
+  width: 370px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.photo {
+  width: 370px;
+}
+
+.contacts-container {
+  margin-top: 55px;
+  margin-left: 40px;
+  margin-right: 40px;
+}
+
+.contacts-title {
+  font-size: 30px;
+  font-weight: 700;
+  line-height: 24px;
+  color: #fff;
+  margin-bottom: 20px;
+}
+
+.contacts-link {
+  color: #ffffff;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 24px;
+}
+
+.contacts-name {
+  color: #ffffff;
+  font-size: 22px;
+  font-weight: 400;
+  line-height: 24px;
+  margin-right: 10px;
+}
+
+.skill-container {
+  margin-top: 55px;
+  margin-left: 40px;
+  margin-right: 40px;
+}
+
+.skill-title {
+  color: #ffffff;
+  font-size: 30px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-bottom: 20px;
+}
+
+.skill-item {
+  color: #fff;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 24px;
+  margin-left: 15px;
+  color: #ff6b08;
+}
+
+.skill-text {
+  color: #fff;
+}
+
+.profession {
+  color: #000000;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-bottom: 20px;
+}
+
+.my-name {
+  color: #000000;
+  font-size: 50px;
+  font-weight: 700;
+  line-height: 80px;
+  margin-bottom: 20px;
+}
+
+.about-me {
+  color: #595959;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 24px;
+  margin-bottom: 20px;
+}
+
+.about-me-title {
+  color: #000000;
+  font-size: 35px;
+  font-weight: 700;
+  line-height: 24px;
+  padding-top: 50px;
+  margin-bottom: 20px;
+}
+
+.about-me-subtitle {
+  color: #000000;
+  font-size: 30px;
+  font-weight: 700;
+  line-height: 24px;
+  padding-top: 20px;
+  margin-bottom: 20px;
+}
+
+.block-list {
+  color: #595959;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 24px;
+  margin-bottom: 20px;
+}
+
+.project-name {
+  display: flex;
+}
+
+.dots {
+  flex: 1;
+  border-bottom: 2px dotted #333;
+}
+
+.dates {
+  color: black;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 24px;
+}
+
+.about-me-item {
+  padding-top: 10px;
+  margin-left: 20px;
+}
+
+.company-name {
+  color: #ff6b08;
+}
+
+.education-info {
+  color: black;
+  font-size: 18px;
+  font-weight: 400;
+}
